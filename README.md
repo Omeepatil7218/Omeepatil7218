@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omeepatil7218
 - 👀 I’m interested in softwere devlopment
 - 🌱 I’m currently learning full stack devlopment with AWS course
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking For full stack web development /software development role
 - 📫 How to reach me omkarpatil3247@gmail.com
 
 <!---
